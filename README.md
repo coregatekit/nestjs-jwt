@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+An JWT with [Nest](https://github.com/nestjs/nest) from [youtube](https://www.youtube.com/watch?v=uAKzFhE3rxU◊) by [vladwulf](https://github.com/vladwulf/nest◊js-jwts)
 
 ## Installation
 
